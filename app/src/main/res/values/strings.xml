@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Todo App</string>
+
+
+        <string-array name="status_array">
+            <item>Todo</item>
+            <item>In progress</item>
+            <item>Done</item>
+            <item>Bug</item>
+        </string-array>
+
+</resources>
