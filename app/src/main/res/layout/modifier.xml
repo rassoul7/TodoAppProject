@@ -91,7 +91,6 @@
         android:id="@+id/New1"
         android:layout_width="359dp"
         android:layout_height="47dp"
-
         android:bufferType="editable"
         android:inputType="text|textAutoComplete"
         android:textColor="#464343"
@@ -108,10 +107,10 @@
 
     <EditText
         android:id="@+id/Remplir1"
-        android:layout_width="354dp"
-        android:layout_height="185dp"
+        android:layout_width="364dp"
+        android:layout_height="189dp"
         android:layout_marginTop="24dp"
-
+        android:gravity="top"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.46"
         app:layout_constraintStart_toStartOf="parent"
